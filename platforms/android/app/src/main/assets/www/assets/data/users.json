@@ -1,0 +1,27 @@
+[
+    {
+        "email":"abc@gmail.com",
+        "username":"OpenSource",
+        "password":"ost@2018"
+    },
+    {
+        "email":"sales@opensourcetechnologies.com",
+        "username":"Mr. Guest",
+        "password":"ost@2018"
+    },
+    {
+        "email":"mno@gmail.com",
+        "username":"Dr. Tripathi",
+        "password":"ost@2018"
+    },
+    {
+        "email":"demo@gmail.com",
+        "username":"ZeRo_CooL",
+        "password":"ost@2018"
+    },
+    {
+        "email":"gmanias90@gmail.com",
+        "username":"delivery_admin",
+        "password":"!Delivery123@#$"
+    }
+]

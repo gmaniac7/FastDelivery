@@ -1,0 +1,115 @@
+[
+    {
+      "category":"Super Market",
+      "logo":"assets/icon/vegetables.svg",
+      "subs": [
+        {
+          "subcategory":"Fresh Vegetables",
+          "subSubs": [
+            {
+              "subSubcategory":"Potatoes, Onions, Tomato"
+            },
+            {
+              "subSubcategory":"Cucumber and Capsicum"
+            }
+          ]
+        },
+        {
+          "subcategory":"Cuts & Sprouts",
+          "subSubs": [
+            {
+              "subSubcategory":"Cut & Peeled Fruits"
+            },
+            {
+              "subSubcategory":"Ready to drink"
+            },
+            {
+              "subSubcategory":"Sprouts"
+            },
+            {
+              "subSubcategory":"Ready to Eat Salads"
+            }
+          ]
+        },
+        {
+          "subcategory":"Fresh Fruits",
+          "subSubs": [
+            {
+              "subSubcategory":"Banana, Guava, Sapota"
+            },
+            {
+              "subSubcategory":"Melon"
+            },
+            {
+              "subSubcategory":"Mangoes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Εστίαση",
+      "logo":"assets/icon/beverage.svg",
+      "subs": [
+        {
+          "subcategory":"Mineral Water",
+          "subSubs": [
+            {
+              "subSubcategory":"Packaged Mineral Water"
+            },
+            {
+              "subSubcategory":"Packaged Drinking Water"
+            }
+          ]
+        },
+        {
+          "subcategory":"Energy & Health Drinks",
+          "subSubs": [
+            {
+              "subSubcategory":"Energy Drinks"
+            },
+            {
+              "subSubcategory":"Health Drinks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category":"Υπηρεσίες",
+      "logo":"assets/icon/food.svg",
+      "subs": [
+        {
+          "subcategory":"Breakfast Cereals",
+          "subSubs": [
+            {
+              "subSubcategory":"Oats"
+            },
+            {
+              "subSubcategory":"Flakes"
+            },
+            {
+              "subSubcategory":"Organic Breakfast Cereals"
+            },
+            {
+              "subSubcategory":"Other Breakfast Cereals"
+            }
+          ]
+        },
+        {
+          "subcategory":"Noodles",
+          "subSubs": [
+            {
+              "subSubcategory":"Instant Noodles"
+            },
+            {
+              "subSubcategory":"Cup Noodles"
+            },
+            {
+              "subSubcategory":"Chinese Noodles"
+            }
+          ]
+        }
+      ]
+    }
+  ]

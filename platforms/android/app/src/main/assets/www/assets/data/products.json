@@ -1,0 +1,99 @@
+[
+    {
+        "productName":"Famous Amos Chocolate Chip Bite Size Cookies, 1.2 oz",
+        "thumbnail":"/assets/imgs/cookies.jpeg",
+        "productCode":"Famous Amos",
+        "weight":"1.2 κλ",
+        "price":4.54,
+        "defaultPrice":4.54,
+        "item":1,
+        "inCart":"Προσθηκη",
+        "disabled":false,
+        "unit":[{"weight":"1.2 κλ","price":4.54},{"weight":"2.4 κλ","price":9.08},{"weight":"3.6 κλ","price":13.62}]
+    },
+    {
+        "productName":"Cheese Feast in Gravy Wet Cat Food",
+        "thumbnail":"/assets/imgs/cheese.jpeg",
+        "productCode":"Purnima Fancy Feast",
+        "weight":"3 κλ",
+        "price":1.48,
+        "defaultPrice":1.48,
+        "item":1,
+        "inCart":"Προσθηκη",
+        "disabled":false,
+        "unit":[{"weight":"3 κλ","price":1.48},{"weight":"6 κλ","price":3.96}]
+    },
+    {
+        "productName":"Peet's Whole Bean Coffee",
+        "thumbnail":"/assets/imgs/coffee.jpeg",
+        "productCode":"Peet's",
+        "weight":"12 κλ",
+        "price":8.98,
+        "defaultPrice":8.98,
+        "item":1,
+        "inCart":"Προσθηκη",
+        "disabled":false,
+        "unit":[{"weight":"12 κλ","price":8.98},{"weight":"24 κλ","price":17.96}]
+    },
+    {
+        "productName":"Nonfat Dry Milk",
+        "thumbnail":"/assets/imgs/country.jpeg",
+        "productCode":"Augason Farms",
+        "weight":"13 κλ",
+        "price":16.52,
+        "defaultPrice":16.52,
+        "item":1,
+        "inCart":"Προσθηκη",
+        "disabled":false,
+        "unit":[{"weight":"13 κλ","price":16.52},{"weight":"26 κλ","price":33.04},{"weight":"39 κλ","price":49.56}]
+    },
+    {
+        "productName":"Pop Secret Microwave Popcorn, Movie Theater Butter",
+        "thumbnail":"/assets/imgs/popsecret.jpeg",
+        "productCode":"Pop Secret",
+        "weight":"3.2 κλ",
+        "price":3.68,
+        "defaultPrice":3.68,
+        "item":1,
+        "inCart":"Προσθηκη",
+        "disabled":false,
+        "unit":[{"weight":"3.2 κλ","price":3.68},{"weight":"6.4 κλ","price":7.36}]
+    },
+    {
+        "productName":"Jif Twin Pack, Creamy Peanut Butter",
+        "thumbnail":"/assets/imgs/Jif.jpeg",
+        "productCode":"Jif",
+        "weight":"40 κλ",
+        "price":10.86,
+        "defaultPrice":10.86,
+        "item":1,
+        "inCart":"Προσθήκη",
+        "disabled":false,
+        "unit":[{"weight":"40 κλ","price":10.86},{"weight":"80 κλ","price":21.72},{"weight":"120 κλ","price":32.58}]
+    },
+    {
+        "productName":"Simply Tostitos Blue Corn Tortilla Chips",
+        "thumbnail":"/assets/imgs/Tostitos.jpeg",
+        "productCode":"Tostitos",
+        "weight":"8.25 κλ",
+        "price":2.98,
+        "defaultPrice":2.98,
+        "item":1,
+        "inCart":"Προσθηκη",
+        "disabled":false,
+        "unit":[{"weight":"8.25 κλ","price":2.98}]
+    },
+    {
+        "productName":"Amy's Organic Soups Lentil Vegetable",
+        "thumbnail":"/assets/imgs/soup.jpeg",
+        "productCode":"Amy's Kitchen",
+        "weight":"14.5 κλ",
+        "price":2.37,
+        "defaultPrice":2.37,
+        "item":1,
+        "inCart":"Προσθηκη",
+        "disabled":false,
+        "unit":[{"weight":"14.5 κλ","price":2.37},{"weight":"29 κλ","price":4.74}]
+    }
+
+]

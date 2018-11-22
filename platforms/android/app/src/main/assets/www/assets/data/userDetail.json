@@ -1,0 +1,26 @@
+[
+    {
+        "firstName":"Tarang",
+        "lastName":"Agarwal",
+        "country":"India",
+        "address":"First Address",
+        "city":"Jhansi",
+        "postCode":"284007"
+    },
+    {
+        "firstName":"Tarang",
+        "lastName":"Agarwal",
+        "country":"India",
+        "address":"Second Address",
+        "city":"Jhansi",
+        "postCode":"284007"
+    },
+    {
+        "firstName":"Tarang",
+        "lastName":"Agarwal",
+        "country":"India",
+        "address":"Third Address",
+        "city":"Jhansi",
+        "postCode":"284007"
+    }
+]
